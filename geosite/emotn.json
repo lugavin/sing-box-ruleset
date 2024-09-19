@@ -1,8 +1,1 @@
-{
-  "version": 1,
-  "rules": [
-    {
-      "domain_suffix": "keeflys.com"
-    }
-  ]
-}
+{"version":1,"rules":[{"domain":[]},{"domain_suffix":["keeflys.com","bestmku.com","weesunday.com"]}]}
